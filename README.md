@@ -1,3 +1,2 @@
-# Topic-Wise-Problem-Solving
-Solved problems from different sites. 
-# Link of every problem is given above the solution
+Solved topic wise problems from different sites. 
+- Link of every problem is given above the solution
